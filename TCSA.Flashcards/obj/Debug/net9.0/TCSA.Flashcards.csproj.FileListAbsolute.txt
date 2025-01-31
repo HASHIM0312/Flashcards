@@ -12,3 +12,4 @@ c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net
 c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.pdb
 c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.genruntimeconfig.cache
 c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\ref\TCSA.Flashcards.dll
+C:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.sourcelink.json
