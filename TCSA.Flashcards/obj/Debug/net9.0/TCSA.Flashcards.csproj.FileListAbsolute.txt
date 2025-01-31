@@ -1,0 +1,14 @@
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\bin\Debug\net9.0\TCSA.Flashcards.exe
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\bin\Debug\net9.0\TCSA.Flashcards.deps.json
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\bin\Debug\net9.0\TCSA.Flashcards.runtimeconfig.json
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\bin\Debug\net9.0\TCSA.Flashcards.dll
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\bin\Debug\net9.0\TCSA.Flashcards.pdb
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.AssemblyInfoInputs.cache
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.AssemblyInfo.cs
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.csproj.CoreCompileInputs.cache
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.dll
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\refint\TCSA.Flashcards.dll
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.pdb
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\TCSA.Flashcards.genruntimeconfig.cache
+c:\Users\hashi\Desktop\MAIN\Coding\TCSA\Flashcards\TCSA.Flashcards\obj\Debug\net9.0\ref\TCSA.Flashcards.dll
